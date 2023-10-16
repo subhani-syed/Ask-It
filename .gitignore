@@ -290,4 +290,6 @@ sketch
 pyvenv.cfg
 pip-selfcheck.json
 
+.parcel-cache/
+
 # End of https://www.toptal.com/developers/gitignore/api/django,python,venv,react
