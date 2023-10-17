@@ -39,4 +39,6 @@ This repository contains a Web application built using Django Rest framework and
 # Demo
 [Ask It demo](https://github.com/subhani-syed/Ask-It/assets/64395664/863c3ac9-f4ea-4cb3-b330-0e809ac9613b)
 
+Know more about how it works [Blog](https://subhani-syed.hashnode.dev/from-static-to-dynamic-transforming-pdfs-into-interactive-conversations-with-llms)
+
 
