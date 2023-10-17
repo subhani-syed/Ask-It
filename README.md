@@ -31,13 +31,15 @@ This repository contains a Web application built using Django Rest framework and
 - Nginx (Reverse Proxy)
 
 # Screenshots
+
 ## LOGIN
-![Screenshot from 2023-10-16 19-44-33](https://github.com/subhani-syed/Ask-It/assets/64395664/00e4c72c-3442-47f4-94dd-a90265c6d5de)
+![Screenshot from 2023-10-16 19-44-33](https://github.com/subhani-syed/Ask-It/assets/64395664/5d11b465-59c2-4093-98e9-a843edc016ea)
+
 ## SIGN UP
-![Screenshot from 2023-10-16 19-44-30](https://github.com/subhani-syed/Ask-It/assets/64395664/31ce8e53-cd25-4fe4-9c86-4f78eb319dc8)
+![Screenshot from 2023-10-16 19-44-30](https://github.com/subhani-syed/Ask-It/assets/64395664/b1a699ce-c800-4b8c-99ce-a1d7d7c75edf)
 
 # Demo
-[Ask It demo](https://github.com/subhani-syed/Ask-It/assets/64395664/863c3ac9-f4ea-4cb3-b330-0e809ac9613b)
+[Ask It demo](https://github.com/subhani-syed/Ask-It/assets/64395664/df3553b4-41c8-4921-9e9a-f823a180b697)
 
 Know more about how it works [Blog](https://subhani-syed.hashnode.dev/from-static-to-dynamic-transforming-pdfs-into-interactive-conversations-with-llms)
 
